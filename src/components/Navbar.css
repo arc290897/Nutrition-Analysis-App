@@ -1,0 +1,12 @@
+.outer-div{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+	padding:10px;
+	color:grey;
+	font-size: 1.5rem;
+}
+
+.margin-left{
+	margin-left: 25px;
+}

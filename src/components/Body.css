@@ -1,0 +1,76 @@
+.outer-body{
+	height:800px;
+	background-image:url("back.jpg");
+}
+
+
+.inside-div{
+	width:1000px;
+	height:100%;
+	margin:auto;
+	background-color: white;
+	transform:translate(0,30px);
+	text-align:center;
+}
+
+.main-div{
+	display:flex;
+	justify-content:space-around;
+	text-align: center;
+}
+
+input{
+	width:400px;
+	height:400px;
+}
+
+.boxing{
+	width:200px;
+	height:50px;
+	margin-left: 33%;
+	border: 2px solid grey ;
+	line-height: 50px;
+}
+
+.para{
+	width:410px;
+	color:red;
+}
+
+.nutri-show{
+	width:350px;
+	height:800px;
+	border:2px solid black;
+}
+
+.show{
+	width:350px;
+}
+
+.maxwidth{
+	width:300px;
+	height:9px;
+	background-color: black;
+	margin:auto;
+}
+
+.div300{
+	width:300px;
+	margin:auto;
+}
+
+.flex{
+	display:flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.midwidth{
+	height:4px;
+	background-color: black;
+}
+
+.minwidth{
+	height:1px;
+	background-color:black;
+	clear:right;
+}
